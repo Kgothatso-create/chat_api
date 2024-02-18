@@ -1,0 +1,13 @@
+#button-box {
+    width: 500px;
+    height: 50px;
+    margin: 100px;
+    display: flex;
+}
+
+#display-box {
+    width: 50rem; 
+    height: 3.5rem;
+    margin: 100px;
+    display: flex;
+}
